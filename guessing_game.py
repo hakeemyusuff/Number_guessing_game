@@ -123,10 +123,3 @@ if __name__ == "__main__":
     chance = chance_manager(welcome_msg())
     random_val = random_num()
     check_user_guess(chance, random_val)
-
-
-# if "__name__" == "__main__":
-#     main()
-# print(chance_manager(welcome_msg()))
-# while True:
-#     choice = welcome_msg()
